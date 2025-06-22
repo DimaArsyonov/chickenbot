@@ -1,2 +1,2 @@
 [tool.poetry.dependencies]
-python = ">=3.10,<3.11"
+aiogram = "^3.0"

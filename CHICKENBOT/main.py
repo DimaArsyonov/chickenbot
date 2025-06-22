@@ -5,7 +5,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram import F
-from aiogram.router import Router
+from aiogram import Router
 from dotenv import load_dotenv
 
 load_dotenv()
